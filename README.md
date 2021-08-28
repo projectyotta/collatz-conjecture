@@ -1,5 +1,5 @@
 # collatz-conjecture
-Visualizing the collatz conjecture using python.
+Visualizing the collatz conjecture using python , graphviz , treelib and opencv . 
 
 Rough process
 1. Build logic to get function tuples for conjecture 
